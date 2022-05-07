@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">saka</string>
+    <string name="massage">сообщение</string>
+    <string name="send">send</string>
+    <string name="theme">тема</string>
+    <string name="subject">Введите вашу почту</string>
+</resources>
